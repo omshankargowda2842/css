@@ -1,0 +1,1 @@
+print("omshankar is a good boy\nkiran is a bad boy\nsai is a worrier\nchandu is a pillod")

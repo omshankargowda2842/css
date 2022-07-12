@@ -1,0 +1,1 @@
+print("omshankar\tis\ta\tgood\tboy")
